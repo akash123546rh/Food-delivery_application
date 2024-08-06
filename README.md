@@ -1,2 +1,2 @@
 # Food-delivery_application
-Fully Reso]ponsive website
+Fully Responsive website
